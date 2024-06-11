@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "errno.h": "c",
+        "kvstore.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c"
+    }
+}
